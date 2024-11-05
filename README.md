@@ -4,7 +4,7 @@
 
 - 👨‍💻 You can also check out my portfolio at [https://ahmadzzary001.vercel.app/](https://ahmadzzary001.vercel.app/)
 
-- 📫 How to reach me **iswahyudibayu016@gmail.com**
+- 📫 How to reach me **royanuahmad313@gmail.com**
 
 - ⚡ Fun fact **I think I am funny XD**
 
