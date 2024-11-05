@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmad Aroyanu Staifen</h1>
 <h3 align="center"> YNTKTS</h3>
 
-👨‍💻 You can also check out my portfolio at https://ahmadzzary001.vercel.app/
-📫 How to reach me royanuahmad313@gmail.com
-⚡ Fun fact I think I am funny XD
+👨‍💻 You can also check out my portfolio at https://ahmadzzary001.vercel.app/ <br>
+📫 How to reach me royanuahmad313@gmail.com <br>
+⚡ Fun fact I think I am funny XD <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
