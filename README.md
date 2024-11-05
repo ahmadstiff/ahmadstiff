@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Aroyanu Staifen</h1>
-<h3 align="center"> Hanya Seorang Hamba Allah!!</h3>
+<h3 align="center"> YNTKTS</h3>
 
 
 - 👨‍💻 You can also check out my portfolio at [https://ahmadzzary001.vercel.app/](https://ahmadzzary001.vercel.app/)
